@@ -2,7 +2,7 @@
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EhEy3uQh-5oOSagUotVOJAf8m7Vqn0D6?usp=sharing](https://colab.research.google.com/drive/12M11-92dJsxa0-ATp1yCKMadUDegIfR2#scrollTo=R87wY_p1yEAO))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12M11-92dJsxa0-ATp1yCKMadUDegIfR2#scrollTo=R87wY_p1yEAO)
 
 This project utilizes the U2Net deep learning model to perform car segmentation in images. After segmenting the car from the background, it allows you to replace the background with a virtual background of your choice.
 
@@ -40,7 +40,7 @@ python car_virtual_background.py --image_dir /content/U-2-Net/dataset/Image --ma
 The output images will be saved in the `save_dir` directory specified in the command.
 
 ### OR 
-- Inference in colab from here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1EhEy3uQh-5oOSagUotVOJAf8m7Vqn0D6?usp=sharing](https://colab.research.google.com/drive/12M11-92dJsxa0-ATp1yCKMadUDegIfR2#scrollTo=R87wY_p1yEAO))
+- Inference in colab from here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12M11-92dJsxa0-ATp1yCKMadUDegIfR2#scrollTo=R87wY_p1yEAO)
 
 # Acknowledgements
 - U2net model is from original [u2net repo](https://github.com/xuebinqin/U-2-Net). Thanks to Xuebin Qin for amazing repo.
