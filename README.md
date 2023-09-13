@@ -6,6 +6,7 @@
 
 This project utilizes the U2Net deep learning model to perform car segmentation in images. After segmenting the car from the background, it allows you to replace the background with a virtual background of your choice.
 
+I suggest utilizing the provided Colab notebook for a comprehensive explanation, as I have employed this notebook for tasks such as data creation, training, inference, and visualization.
 ![poster](assets/poster.png)
 
 
@@ -38,7 +39,7 @@ python car_virtual_background.py --image_dir /content/U-2-Net/dataset/Image --ma
 
 The output images will be saved in the `save_dir` directory specified in the command.
 
-### OR
+### OR 
 - Inference in colab from here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EhEy3uQh-5oOSagUotVOJAf8m7Vqn0D6?usp=sharing)
 
 # Acknowledgements
