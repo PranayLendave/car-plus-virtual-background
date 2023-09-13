@@ -15,6 +15,7 @@ This section describes how to use the pretrained model for car segmentation and 
 ## Pretrained Model
 
 To perform car segmentation and add virtual backgrounds, you'll need to download the pretrained U2Net model from this [link](https://drive.google.com/file/d/1ao1ovG1Qtx4b7EoskHXmi2E9rp5CHLcZ/view) (168 MB). Once downloaded, place it in the `saved_models/u2net` folder.
+I have trained two network for 200 epochs with multi bce loss and multi dice loss fucntions [link](https://drive.google.com/file/d/1ao1ovG1Qtx4b7EoskHXmi2E9rp5CHLcZ/view) (168 MB). Once downloaded, place it in the `saved_models/u2net` folder.
 
 ## Running Inference
 
