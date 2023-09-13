@@ -1,4 +1,4 @@
-# Car Segmentation and adding Virtual Background using U2NET#
+# Car Segmentation and adding Virtual Background using U2NET
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
